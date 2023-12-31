@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-    background: #d699da;
+    background: rgb(79, 5, 86);
 }
 
 .container {
@@ -68,6 +68,13 @@ body {
     padding: 16px;
     background-color: rgba(94, 12, 102);
     text-decoration: none;
+}
+
+#d699da
+
+hr {
+    opacity: 0.9;
+    color: rgba(94, 12, 102);
 }
 
 section {
